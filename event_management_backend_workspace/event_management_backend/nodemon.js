@@ -1,9 +1,10 @@
 {
   "ignore": [
-    "node_modules/*",
+    "node_modules/**",
     "*.log",
+    "**/*.log",
     "README.md",
-    "*.test.js",
-    "*.lock"
+    "**/*.test.js",
+    "**/*.lock"
   ]
 }
