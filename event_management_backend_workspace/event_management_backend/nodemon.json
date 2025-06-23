@@ -5,6 +5,8 @@
     "**/*.log",
     "README.md",
     "**/*.test.js",
-    "**/*.lock"
+    "**/*.lock",
+    "*.lock",
+    "package-lock.json"
   ]
 }
