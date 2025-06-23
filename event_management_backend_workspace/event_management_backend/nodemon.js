@@ -1,0 +1,9 @@
+{
+  "ignore": [
+    "node_modules/*",
+    "*.log",
+    "README.md",
+    "*.test.js",
+    "*.lock"
+  ]
+}
