@@ -1,0 +1,5 @@
+{
+  "task_description": "{'description': 'A web application for managing events, allowing users to create, manage, and view events.', 'containers': [{'container_name': 'event_management_backend', 'platform': 'backend', 'framework': 'express', 'description': 'Handles business logic, event data storage, and API endpoints for managing events.', 'interfaces': 'RESTful API for event management operations (CRUD events, users, registrations).', 'relative_path': 'event_management_backend_workspace', 'dependencies': [], 'container_type': 'backend', 'container_details': None}], '3rd_party_services': [], 'figma_components': '', 'manifest_path': '/home/kavia/workspace/code-generation/.project_manifest.yaml'}",
+  "tasks": {},
+  "next_task_id": 1
+}
