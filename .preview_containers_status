@@ -1,1 +1,1 @@
-{"event_management_backend": {"status": "building", "timestamp": "2025-06-23T17:16:20.778020", "url": "https://vscode-internal-95172-dev.dev01.cloud.kavia.ai:3001/docs", "api_route": "https://vscode-internal-95172-dev.dev01.cloud.kavia.ai:3001/openapi.json", "error": null}}
+{"event_management_backend": {"status": "running", "timestamp": "2025-06-23T17:16:37.507358", "url": "https://vscode-internal-95172-dev.dev01.cloud.kavia.ai:3001/docs", "api_route": "https://vscode-internal-95172-dev.dev01.cloud.kavia.ai:3001/openapi.json", "error": null}}
